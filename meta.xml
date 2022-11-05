@@ -1,0 +1,7 @@
+<meta>
+	<info author="Dutchman101, Melody" name="Glue" version="1.2.3" type="script"/>
+	<script src="script.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+	<script src="matrix.lua" type="client"/>
+	<script src="complex.lua" type="client"/>
+</meta>
